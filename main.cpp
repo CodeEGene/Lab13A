@@ -23,6 +23,7 @@ int main() {
 		cerr << "Error, unable to open this file..." << endl;
 		return 1;
 
+
 	}
 
 	char ch;
